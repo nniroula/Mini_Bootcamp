@@ -1,0 +1,16 @@
+Q1. Create a HTML Table, having following columns  
+
+Sl No 
+Country Name
+Continent
+Capital 
+PM/President Name
+Currency (Along With The Symbol )  e.g :- US Dollars ($)
+Languages Spoken
+
+The Table Should Have Data About 7 Countries From Each And Every Continent As Given Below :- 
+Asia, Africa, North America, South America, Europe,Oceania
+
+All The Country Names Should Have A Color Code :- #0E3336A
+All The Names Of The Prime Ministers And Presidents Should Have A Color Code :- #0C6E26
+
