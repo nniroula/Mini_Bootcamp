@@ -14,3 +14,4 @@ Asia, Africa, North America, South America, Europe,Oceania
 All The Country Names Should Have A Color Code :- #0E3336A
 All The Names Of The Prime Ministers And Presidents Should Have A Color Code :- #0C6E26
 
+More questions are coming up here.
