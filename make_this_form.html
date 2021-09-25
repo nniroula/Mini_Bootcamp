@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make this form </title>
+</head>
+<body>
+    <form action="#">
+        <caption>Citizen Detail Form </caption>
+        <fieldset>
+            <legend>user data</legend>
+            <label>First Name</label>
+                <input type="text" placeholder="first name">
+            <label>Middle Name</label>
+                <input type="text" placeholder="middle name">
+            <label>Last Name</label>
+                <input type="text" placeholder="last name">
+        </fieldset>
+
+        <fieldset>
+            <legend>State</legend>
+            <lable for="state">State</lable>
+                <!-- <input type="text" value="choose state"> -->
+                <!-- <input type="text" id="state"> -->
+            <select id="state">
+                <option id="state">Pujab</option>
+                <option>Delhi</option>
+                <option>Bengal</option>
+            </select>
+        </fieldset>
+
+        <fieldset>
+            <legend>Date of Birth</legend>
+            <label>Date of Birth</label>
+            <input type="datetime-local">
+        </fieldset>
+
+        <fieldset>
+            <legend>Religion</legend>
+            <label for="hinduism">Hinduism</label>
+            <input type="radio" id="hinduism" name="radio-button" value=''>
+
+            <label>Islamic</label>
+            <input type="radio" name="radio-button">
+
+            <label>Christianity</label>
+            <input type="radio" name="radio-button">
+        </fieldset>
+
+        <fieldset>
+            <legend>Language</legend>
+            <label>Hindi</label>
+            <input type="checkbox">
+
+            <label>English</label>
+            <input type="checkbox">
+        </fieldset>
+
+        <fieldset>
+            <legend>Upload your passport size photo</legend>
+            <input type="file">
+        </fieldset>
+
+        <button>Submit</button>
+        <button>Reset</button>
+    </form>
+    
+</body>
+</html>
